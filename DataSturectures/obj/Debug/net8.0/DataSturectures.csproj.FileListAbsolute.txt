@@ -1,0 +1,14 @@
+C:\Users\Rajesh Venteru\OneDrive\Documents\DataSturectures\DataSturectures\bin\Debug\net8.0\DataSturectures.exe
+C:\Users\Rajesh Venteru\OneDrive\Documents\DataSturectures\DataSturectures\bin\Debug\net8.0\DataSturectures.deps.json
+C:\Users\Rajesh Venteru\OneDrive\Documents\DataSturectures\DataSturectures\bin\Debug\net8.0\DataSturectures.runtimeconfig.json
+C:\Users\Rajesh Venteru\OneDrive\Documents\DataSturectures\DataSturectures\bin\Debug\net8.0\DataSturectures.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\DataSturectures\DataSturectures\bin\Debug\net8.0\DataSturectures.pdb
+C:\Users\Rajesh Venteru\OneDrive\Documents\DataSturectures\DataSturectures\obj\Debug\net8.0\DataSturectures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajesh Venteru\OneDrive\Documents\DataSturectures\DataSturectures\obj\Debug\net8.0\DataSturectures.AssemblyInfoInputs.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\DataSturectures\DataSturectures\obj\Debug\net8.0\DataSturectures.AssemblyInfo.cs
+C:\Users\Rajesh Venteru\OneDrive\Documents\DataSturectures\DataSturectures\obj\Debug\net8.0\DataSturectures.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\DataSturectures\DataSturectures\obj\Debug\net8.0\DataSturectures.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\DataSturectures\DataSturectures\obj\Debug\net8.0\refint\DataSturectures.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\DataSturectures\DataSturectures\obj\Debug\net8.0\DataSturectures.pdb
+C:\Users\Rajesh Venteru\OneDrive\Documents\DataSturectures\DataSturectures\obj\Debug\net8.0\DataSturectures.genruntimeconfig.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\DataSturectures\DataSturectures\obj\Debug\net8.0\ref\DataSturectures.dll
